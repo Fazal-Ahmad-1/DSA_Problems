@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
 ## Array
 |  |
 | ------- |
@@ -80,4 +81,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
