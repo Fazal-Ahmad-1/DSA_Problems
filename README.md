@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
