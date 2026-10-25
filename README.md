@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
