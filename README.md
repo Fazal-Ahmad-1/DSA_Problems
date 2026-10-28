@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0018-4sum) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,4 +111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1193-monthly-transactions-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
