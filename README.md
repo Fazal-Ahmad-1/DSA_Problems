@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Array
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
