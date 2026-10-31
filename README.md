@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
 ## Array
@@ -85,22 +86,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
 ## Database
 |  |
@@ -127,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
