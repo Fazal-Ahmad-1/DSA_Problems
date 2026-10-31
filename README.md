@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Array
 |  |
 | ------- |
@@ -88,26 +89,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Database
 |  |
 | ------- |
@@ -137,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
