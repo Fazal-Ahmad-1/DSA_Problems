@@ -19,9 +19,10 @@ class Solution {
 
     public char findKthBit(int n, int k) {
         String s="0";
+        StringBuilder sb=new StringBuilder("0");
         for(int i=1;i<=n;i++){
-            s=s+"1"+reverse(invert(s));
+            sb.append("1"+reverse(invert(sb.toString())));
         }
-        return s.charAt(k-1);
+        return sb.charAt(k-1);
     }
 }
