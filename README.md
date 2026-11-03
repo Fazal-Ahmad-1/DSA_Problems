@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0018-4sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
