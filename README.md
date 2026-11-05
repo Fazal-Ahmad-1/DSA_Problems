@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0018-4sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0018-4sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Suffix Array
 |  |
