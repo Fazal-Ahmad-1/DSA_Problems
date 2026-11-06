@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0020-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1392-longest-happy-prefix](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1392-longest-happy-prefix) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
