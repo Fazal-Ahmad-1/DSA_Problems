@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0018-4sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1882-process-tasks-using-servers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
