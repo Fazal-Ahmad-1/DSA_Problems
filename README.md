@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1882-process-tasks-using-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
