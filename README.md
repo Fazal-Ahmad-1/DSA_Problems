@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0013-roman-to-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3360-stone-removal-game](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3360-stone-removal-game](https://github.com/Fazal-Ahmad-1/DSA_Problems/tree/master/3360-stone-removal-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
